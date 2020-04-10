@@ -1,5 +1,17 @@
 ![](https://justfont-images.s3-ap-northeast-1.amazonaws.com/huninn/jf-open-huninn-banner.png)
 
+# webfont
+```CSS
+@font-face {
+	font-family: 'HunInn';
+	src: url(https://cdn.jsdelivr.net/gh/marsnow/open-huninn-font@1.0/font/jf-openhuninn-1.0.eot); /* IE9 Compat Modes */
+	src: url(https://cdn.jsdelivr.net/gh/marsnow/open-huninn-font@1.0/font/jf-openhuninn-1.0.eot?#iefix) format("embedded-opentype"), /* IE6-IE8 */
+	url(https://cdn.jsdelivr.net/gh/marsnow/open-huninn-font@1.0/font/jf-openhuninn-1.0.woff) format("woff"), /* Modern Browsers */
+	url(https://cdn.jsdelivr.net/gh/marsnow/open-huninn-font@1.0/font/jf-openhuninn-1.0.ttf) format("truetype"), /* Safari, Android, iOS */
+	url(https://cdn.jsdelivr.net/gh/marsnow/open-huninn-font@1.0/font/jf-openhuninn-1.0.svg#SealmemoryHeader) format("svg"); /* Legacy iOS */
+}
+```
+
 # 加粉圓，都免錢
 「[jf open 粉圓](http://bit.ly/39PiKeb "jf open 粉圓")」是基於小杉圓體 (Kosugi Maru) 改作，
 由[ justfont](https://justfont.com " justfont") 設計師針對台灣日常應用加以優化的開源字型，以 OFL 1.1 開源授權釋出，歡迎大家自由應用、自由優化、自由改作！粉圓的官網連結：<http://bit.ly/39PiKeb>，歡迎大家到官網看看喔！
