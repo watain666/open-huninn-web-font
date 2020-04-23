@@ -4,13 +4,18 @@
 ```CSS
 @font-face {
 	font-family: 'HunInn';
-	src: url(https://cdn.jsdelivr.net/gh/marsnow/open-huninn-font@1.0/font/jf-openhuninn-1.0.eot); /* IE9 Compat Modes */
-	src: url(https://cdn.jsdelivr.net/gh/marsnow/open-huninn-font@1.0/font/jf-openhuninn-1.0.eot?#iefix) format("embedded-opentype"), /* IE6-IE8 */
-	url(https://cdn.jsdelivr.net/gh/marsnow/open-huninn-font@1.0/font/jf-openhuninn-1.0.woff) format("woff"), /* Modern Browsers */
-	url(https://cdn.jsdelivr.net/gh/marsnow/open-huninn-font@1.0/font/jf-openhuninn-1.0.ttf) format("truetype"), /* Safari, Android, iOS */
-	url(https://cdn.jsdelivr.net/gh/marsnow/open-huninn-font@1.0/font/jf-openhuninn-1.0.svg#SealmemoryHeader) format("svg"); /* Legacy iOS */
+	src: url(https://cdn.jsdelivr.net/gh/marsnow/open-huninn-font@1.1/font/jf-openhuninn.eot); /* IE9 Compat Modes */
+	src: url(https://cdn.jsdelivr.net/gh/marsnow/open-huninn-font@1.1/font/jf-openhuninn.eot?#iefix) format("embedded-opentype"), /* IE6-IE8 */
+	url(https://cdn.jsdelivr.net/gh/marsnow/open-huninn-font@1.1/font/jf-openhuninn.woff) format("woff"), /* Modern Browsers */
+	url(https://cdn.jsdelivr.net/gh/marsnow/open-huninn-font@1.1/font/jf-openhuninn.ttf) format("truetype"), /* Safari, Android, iOS */
+	url(https://cdn.jsdelivr.net/gh/marsnow/open-huninn-font@1.1/font/jf-openhuninn.svg#SealmemoryHeader) format("svg"); /* Legacy iOS */
 }
 ```
+# 建議有台客語排版需求的朋友更新粉圓1.1版喔～～
+
+完整新增字如下：
+
+𠊎𠎷𠕆𠖄𠗻𠞩𠞭𠠃𠠝𠢕𠯗𠲿𡳞𢎙𢪱𢯭𢯾𢱤𢲴𢲸𢳪𢶀𢼌𢼛𣁳𣮈𣲩𣼎𤊶𤍒𤐙𤐰𤘅𤞚𤲍𤶃𤸁𤸱𤺅𤺪𥌚𥍉𥐵𥯟𥯥𥰔𥴊𥺆𦉎𦊓𦜆𦟪𧉟𧌄𧩣𧮙𧻴𧿬𧿳𨂿𨃰𨅔𨒇𨢑𩑾𩚨𩛩𩜄𩜰𩵱𩸙𩸶𩼧𪁎𪐞𪖐𪘒𪜶𪹚𫝏𫝘𫝛𫝺𫝻𫞼𫟂𫟧𫠛㐁㑁㓾㔂㕸㖅㖸㗘㗱㘔㘛㘝㜮㜷㝗㝩㤉㤕㧁㧌㧎㧒㧡㧣㧻㧾㨂㨑㨨㨪㨻㩆㪐㬹㰵㴘㴙㷮㸐㸰㼓㽎㾀㾊㿸䀐䀯䀴䁯䃗䆀䇶䈄䉂䌈䖙䖳䗁䗆䗐䘆䘥䘼䞚䟓䟘䟩䠡䢍䢢䫌䯋䲅亼伨倈倲傪僫凃凴刣剾勥匧叹吂吓吔哊哯哹唩唿啉啲喺嗬噍噼嚟圝坔塠壠奒媠嫲廍抅抐抺拁挱挵挷捒捝捾揞揢揬揻搙搝搩摖摱撆撍撨攋攑敋敱杮桊梘槺橂檫溚漖灇炣烌煏熻燶疴癀眡砄砛硓礮秥稴竳竵篼粩糍絚繏羓羴肨胮胿腈膁膎膭臁臽蕒蕳藠虬蝲螕蟎蟮蠘襀襇誐贌跔踭蹽躼軁递逩鈪錑閕靗頕魩鮊鮔鮘鯮鱲黗𠕇𠜱𡢃𢫦𢳆𣛮𣻸𤉙𤌍𥉌𥑮𧊅𨂾𫣆𬠖𬦰𰣻𰹬
 
 # 加粉圓，都免錢
 「[jf open 粉圓](http://bit.ly/39PiKeb "jf open 粉圓")」是基於小杉圓體 (Kosugi Maru) 改作，
